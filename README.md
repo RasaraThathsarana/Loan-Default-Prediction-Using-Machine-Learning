@@ -6,6 +6,8 @@
 #### Index: 210170G | Name: W.A.R.T. Fonseka
 
 [Lab Report](210170G_report.pdf)
+[Python Notebook](210170G_notebookipynb)
+you can find dataset here[here](https://drive.google.com/drive/folders/13ia5PyRPJiJ3571jJ-j17xXgc-MWQkSX?usp=sharing)
 ## You can find dateset hear:
 
 ## Project Overview
