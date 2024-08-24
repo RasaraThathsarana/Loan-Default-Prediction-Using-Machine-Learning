@@ -5,7 +5,7 @@
 #### Dr. R.T. Uthayasanker | February 16, 2024
 #### Index: 210170G | Name: W.A.R.T. Fonseka
 
-## Project Report:
+## Project Report: [Lab Report](Lab_Report.pdf)
 ## You can find dateset hear:
 
 ## Project Overview
