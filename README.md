@@ -5,10 +5,9 @@
 #### Dr. R.T. Uthayasanker | February 16, 2024
 #### Index: 210170G | Name: W.A.R.T. Fonseka
 
--[Lab Report](210170G_report.pdf)
--[Python Notebook](210170G_notebookipynb)
--you can find dataset here[here](https://drive.google.com/drive/folders/13ia5PyRPJiJ3571jJ-j17xXgc-MWQkSX?usp=sharing)
-## You can find dateset hear:
+- [Lab Report](210170G_report.pdf)
+- [Python Notebook](210170G_notebookipynb)
+- you can find dataset here[here](https://drive.google.com/drive/folders/13ia5PyRPJiJ3571jJ-j17xXgc-MWQkSX?usp=sharing)
 
 ## Project Overview
 This project is part of the **CS3111 - Introduction to Machine Learning** course. The objective of this lab is to build a machine learning model to predict loan defaults using a dataset provided by a finance company in the United States. The primary focus is on feature engineering, data preprocessing, and model development using the XGBoost algorithm.
